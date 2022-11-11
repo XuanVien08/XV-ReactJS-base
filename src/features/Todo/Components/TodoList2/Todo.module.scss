@@ -1,0 +1,7 @@
+.todoList {
+    cursor: pointer;
+    & li.completed {
+        color: #ccc;
+        text-decoration: line-through;
+    }
+}

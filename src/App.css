@@ -28,6 +28,12 @@
   color: #61dafb;
 }
 
+.active-menu {
+  color: rgb(255, 98, 98);
+  font-weight: bold;
+  text-decoration: none;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
